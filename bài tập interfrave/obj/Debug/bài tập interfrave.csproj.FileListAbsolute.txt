@@ -1,0 +1,7 @@
+C:\NGUYENQUOCANH_22400956\bài tập\bài tập interfrave\bin\Debug\bài tập interfrave.exe.config
+C:\NGUYENQUOCANH_22400956\bài tập\bài tập interfrave\bin\Debug\bài tập interfrave.exe
+C:\NGUYENQUOCANH_22400956\bài tập\bài tập interfrave\bin\Debug\bài tập interfrave.pdb
+C:\NGUYENQUOCANH_22400956\bài tập\bài tập interfrave\obj\Debug\bài tập interfrave.csproj.AssemblyReference.cache
+C:\NGUYENQUOCANH_22400956\bài tập\bài tập interfrave\obj\Debug\bài tập interfrave.csproj.CoreCompileInputs.cache
+C:\NGUYENQUOCANH_22400956\bài tập\bài tập interfrave\obj\Debug\bài tập interfrave.exe
+C:\NGUYENQUOCANH_22400956\bài tập\bài tập interfrave\obj\Debug\bài tập interfrave.pdb
